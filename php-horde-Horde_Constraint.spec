@@ -9,7 +9,7 @@ License:	BSD
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
 # Source0-md5:	5d833d3559a7693df3363b05fb42e3e9
-URL:		http://pear.horde.org/package/Horde_Constraint/
+URL:		https://github.com/horde/horde/tree/master/framework/Constraint/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
 BuildRequires:	php-pear-PEAR
