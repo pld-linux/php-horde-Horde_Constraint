@@ -3,12 +3,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Constraint library
 Name:		php-horde-Horde_Constraint
-Version:	1.0.0
+Version:	1.0.1
 Release:	1
 License:	BSD
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	5d833d3559a7693df3363b05fb42e3e9
+# Source0-md5:	906961d1a4caf0b3c91655d0bbb8559f
 URL:		https://github.com/horde/horde/tree/master/framework/Constraint/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
