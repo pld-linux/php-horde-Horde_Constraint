@@ -1,6 +1,5 @@
 %define		status		stable
 %define		pearname	Horde_Constraint
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Constraint library
 Name:		php-horde-Horde_Constraint
 Version:	1.0.1
